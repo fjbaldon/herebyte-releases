@@ -1,25 +1,24 @@
-# Herebyte Scanner App Releases 📱
+# Herebyte Scanner App Releases
 
-This repository hosts the official Android application packages (APK) for the **Herebyte** lightning-fast offline attendance management system.
+This repository hosts official Android application packages (APK) for the Herebyte attendance management system.
 
-## 🚀 Downloading the App
+## Download
 
-To get the latest version of the Herebyte Scanner:
+To install the latest version:
 
 1. Go to the [Releases](https://github.com/fjbaldon/herebyte-releases/releases) page.
 2. Download the `herebyte-release.apk` file from the latest release.
-3. Open the file on your Android device to install. 
-   *(Note: You may need to enable "Install from Unknown Sources" in your device settings).*
+3. Open the file on your Android device to install.
 
-## 🛠 About Herebyte
+## About Herebyte
 
-Herebyte is built for mission-critical attendance tracking in high-traffic environments. 
+Herebyte is an offline-first attendance management system built for high-traffic environments. 
 
-*   **Offline-First**: Process thousands of scans with zero internet connection.
-*   **Instant Sync**: Data syncs automatically to the [Herebyte Dashboard](https://herebyte.xyz) once back online.
-*   **Lightning Fast**: Sub-millisecond barcode and QR code recognition.
+* **Offline-First**: Process scans without an internet connection.
+* **Sync**: Data syncs to the Herebyte Dashboard once the device is back online.
+* **Speed**: Sub-millisecond barcode and QR code recognition.
 
-## 📄 License
+## License
 
 This software is part of the Herebyte ecosystem. Unauthorized distribution or reverse engineering is prohibited.
 
