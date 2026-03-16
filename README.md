@@ -7,7 +7,7 @@ This repository hosts official Android application packages (APK) for the Hereby
 To install the latest version:
 
 1. Go to the [Releases](https://github.com/fjbaldon/herebyte-releases/releases) page.
-2. Download the `herebyte-x.x.x-release.apk` file from the latest release.
+2. Download the `herebyte-x.x-release.apk` file from the latest release.
 3. Open the file on your Android device to install.
 
 ## About Herebyte
